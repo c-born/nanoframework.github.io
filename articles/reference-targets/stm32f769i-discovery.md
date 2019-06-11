@@ -2,11 +2,9 @@
 
 ![](../../images/reference-targets/stm32f769i-disco.jpg)
 
-
 [Product page](http://www.st.com/en/evaluation-tools/32f769idiscovery.html)
 
-
-### Firmware images (ready to deploy)
+## Firmware images (ready to deploy)
 
 | Stable | Preview |
 |---|---|
